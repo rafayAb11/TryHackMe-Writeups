@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "857aac776e2cb5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "91456540b68ef4d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0966d6fc765977f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC-Level-1/1-Blue_team_Intro/2- SOC Role in Team.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2- SOC Role in Team"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b87bb77726ece62f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ac33fd69e56d688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c5b1e94dfdabdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "154afc47bebeb236",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c94b9ffd8fcd86a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6ab8c4b91f6d7e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "01f6890f177ae437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0050b8d753bfa650",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SOC-Level-1/1-Blue_team_Intro/2- SOC Role in Team.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2- SOC Role in Team"
+            }
+          },
+          {
+            "id": "c8f1597fe9466f87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SOC-Level-1/1-Blue_team_Intro/2- SOC Role in Team.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2- SOC Role in Team"
+            }
+          },
+          {
+            "id": "e23bbcf853d86d2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "183728d5a8c6615a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "059e51056be1c4c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SOC-Level-1/1-Blue_team_Intro/2- SOC Role in Team.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2- SOC Role in Team"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0966d6fc765977f3",
+  "lastOpenFiles": [
+    "SOC-Level-1/1-Blue_team_Intro/1- Junior Security Analyst Intro.md"
+  ]
+}
