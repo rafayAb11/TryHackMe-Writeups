@@ -81,15 +81,16 @@ SOC L2 Analyst
 This final task is a routing exercise: seven people, seven situations, match each to the right role.
 ![](attachment/8641fc1a225a2da00aeac17076b35a32.png)
 
-|Person|Situation|Role|
-|---|---|---|
-|Lucas|First to spot the alert|Front-line triage (SOC L1)|
-|Robert|Senior enough to own the response|Escalation target for the incident|
-|Ben|Needs to vet a new software version for vulnerabilities|Red Team / ethical hacker|
-|Susan|Deep analysis needed on a phishing malware sample|SOC L2 Analyst|
-|Nick|Compliance check required|Auditor / GRC|
-|Eugene|Storage limits need checking|Infrastructure / SOC Engineer|
-|Alice|Needs current threat landscape info|Threat Intelligence|
+| Person | Situation                                               | Role                               |
+| ------ | ------------------------------------------------------- | ---------------------------------- |
+| Lucas  | First to spot the alert                                 | Front-line triage (SOC L1)         |
+| Robert | Senior enough to own the response                       | Escalation target for the incident |
+| Ben    | Needs to vet a new software version for vulnerabilities | Red Team / ethical hacker          |
+| Susan  | Deep analysis needed on a phishing malware sample       | SOC L2 Analyst                     |
+| Nick   | Compliance check required                               | Auditor / GRC                      |
+| Eugene | Storage limits need checking                            | Infrastructure / SOC Engineer      |
+| Alice  | Needs current threat landscape info                     | Threat Intelligence                |
+
 The pattern underneath all of it: match the _type_ of work to the team built for it. Vulnerability discovery goes to red team, not SOC. Compliance goes to GRC, not the analyst who spotted the alert. Deep malware analysis outranks a first responder's remit and belongs with L2.
 
 <details>
