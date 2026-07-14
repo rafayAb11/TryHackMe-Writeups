@@ -5,7 +5,7 @@ The first room told you what a SOC L1 analyst does. This one zooms out and shows
 No question here, just the room's setup: you've learned the L1 role, now let's map the org chart around it.
 
 Prerequisite:
-[[1- Junior Security Analyst Intro]]
+[1- Junior Security Analyst Intro](1-%20Junior%20Security%20Analyst%20Intro.md)
 
 # Task 2: Security Hierarchy
 
