@@ -5,7 +5,7 @@ The SOC doesn't just protect servers, it protects people, because people are usu
 No question, just the room's framing: understand the human element, understand the SOC's role in defending it, then practice with two scenarios.
 
 **Prerequisite:**
-[[1- Junior Security Analyst Intro]]
+[1- Junior Security Analyst Intro](1-%20Junior%20Security%20Analyst%20Intro.md)
 
 # Task 2: The Human Element
 

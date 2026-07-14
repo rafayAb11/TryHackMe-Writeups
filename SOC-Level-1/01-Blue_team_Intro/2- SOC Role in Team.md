@@ -2,10 +2,7 @@ The first room told you what a SOC L1 analyst does. This one zooms out and shows
 
 # Task 1: Introduction
 
-Learning Objectives:
--) Understand the concept and purpose of the Blue Team
--) Explore a place of the SOC within the company structure
--) Find out about your career path as a SOC L1 Analyst
+No question here, just the room's setup: you've learned the L1 role, now let's map the org chart around it.
 
 Prerequisite:
 [[1- Junior Security Analyst Intro]]
