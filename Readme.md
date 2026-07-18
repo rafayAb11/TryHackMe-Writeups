@@ -10,7 +10,7 @@ Each module folder matches TryHackMe's own path structure and task numbering, so
 Every writeup follows the room's own Task 1 / Task 2 / ... structure rather than a custom layout, so it's easy to cross-reference against the room directly.
 Every quiz answer and flag is spoiler-tagged
 
-<details><summary>Answer</summary>...</details>
+<details><summary>Answer</summary>...</details> 
 (click to reveal)
 
 not written in plaintext next to the question. A couple of rooms in this path are subscriber-only content, this convention applies to all of them regardless, confirmed as acceptable directly with TryHackMe support.
