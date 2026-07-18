@@ -31,14 +31,14 @@ Double-Extension File Creation
 Every alert carries the same core fields, and knowing what each one actually tells you is what separates fast triage from guessing:
 ![](attachment/d094f8e936960f60b93f616bb8a6e986.png)
 
-1- Alert time => Creation time
-2- Alert Name => Summary of what happened based on detection's rule name
-3- Alert severity => Defines the urgency of the alert
-4- Alert status => Informs if somebody has already working on it or done with it
-5- Alert Verdict => Shows the analysis conclusion
-6- Alert Assignee => Who owns it
-7- Description => Explains what the alert is about
-8- Fields => SOC analyst's comments
+1. **Alert time** → Creation time
+2. **Alert name** → Summary of what happened based on the detection rule
+3. **Alert severity** → Defines the urgency of the alert
+4. **Alert status** → Indicates whether someone is already working on it
+5. **Alert verdict** → Shows the analyst's conclusion
+6. **Alert assignee** → Identifies who owns the alert
+7. **Description** → Explains what the alert is about
+8. **Fields** → SOC analyst's comments
 
 ![](attachment/0f4a41ba9c45471b18524f9a826f4322.png)
 
