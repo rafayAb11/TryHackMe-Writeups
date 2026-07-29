@@ -65,18 +65,18 @@ After a rule fires, the analyst's job is deciding what happens next: tune the ru
 A live simulated alert to triage from scratch.
 
 **After clicking on the _Start Suspicious Activity button,_ which process caused the alert?**
-![](2c4297d2c40ee51cf76805b66e239f7c.png)
+![](attachment/2c4297d2c40ee51cf76805b66e239f7c.png)
 <details><summary>Answer</summary>cudominer.exe</details>
 
 **Find the event that caused the alert and identify the user responsible for the process execution.**
-![](93c2880c9f27e8e39c24f878c278a16d.png)
+![](attachment/93c2880c9f27e8e39c24f878c278a16d.png)
 <details><summary>Answer</summary>Chris</details>
 
 **What is the hostname of the suspect user?**
 <details><summary>Answer</summary>HR_02</details>
 
 **Examine the rule and the suspicious process; which term matched the rule that caused the alert?**
-![](030d00ac3906177b9aa711ba07e08157.png)
+![](attachment/030d00ac3906177b9aa711ba07e08157.png)
 <details><summary>Answer</summary>Miner (matched from the process name "cudominer")</details>
 
 **Which option best represents the event? Choose from the following:**
