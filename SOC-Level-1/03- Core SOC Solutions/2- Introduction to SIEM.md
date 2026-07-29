@@ -8,7 +8,7 @@ EDR covers the endpoint. This room covers the platform that pulls logs from ever
 
 # Task 2: Logs Everywhere, Answers Nowhere
 
-![](447b0647758ec3819f67bde3fc4dc0ea.png)
+![](attachment/447b0647758ec3819f67bde3fc4dc0ea.png)
 Every connected device is constantly generating logs, the trail of everything it does. These split into two categories:
 
 **Host-Centric** — tied to the host itself: file access, authentication attempts, process execution, registry key changes, PowerShell execution.
