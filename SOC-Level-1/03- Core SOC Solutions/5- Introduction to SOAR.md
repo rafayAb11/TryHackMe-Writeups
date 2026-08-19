@@ -15,7 +15,7 @@ The challenges that come with running all of this manually: **Alert Fatigue** (n
 
 # Task 3: Overcoming SOC Challenges with SOAR
 SOAR's pitch is unifying every tool an analyst touches into one interface, plus a built-in ticketing system for structured incident tracking.
-![](4b6a9055cb1dfa1d4947506d169dda15.png)
+![](attachment/4b6a9055cb1dfa1d4947506d169dda15.png)
 
 **Orchestration** solves the disconnected-tools problem specifically, it defines workflows (**playbooks**) that pull from multiple tools without the analyst manually switching between them. Compare the two flows for a VPN brute-force alert:
 
@@ -71,19 +71,19 @@ Mitigation plan
 The hands-on task: for a Threat Intelligence integration workflow, decide which individual actions should be automated versus left manual, across five categories.
 
 **Case Ticket** — create, assign, communicate, and update can be automated; deletion stays manual.
-![](f9f1d26a4b74aad27d027a8576192ad7.png)
+![](attachment/f9f1d26a4b74aad27d027a8576192ad7.png)
 
 **Threat Intel** — fetching intel, setting intervals, and handling failed fetches can be automated; deletion stays manual.
-![](c8e89d69cb470d509f7e6d44b81b1e86.png)
+![](attachment/c8e89d69cb470d509f7e6d44b81b1e86.png)
 
 **Data Extraction** — extracting domains, URLs, and IPs can be automated; anything unrecognized needs manual handling.
-![](4fea1a1ffca4e6077f253db93714e092.png)
+![](attachment/4fea1a1ffca4e6077f253db93714e092.png)
 
 **Reputation Checks** — pulling results from VirusTotal can be automated; running tests and validating results stays manual.
-![](78657cf54607836bdb496257a0b527d6.png)
+![](attachment/78657cf54607836bdb496257a0b527d6.png)
 
 **Course of Action** — blocking domains/IPs/URLs and updating tickets can be automated; final approval stays manual.
-![](0c8b372fc51858dd7f3165a9b2ea2aa1.png)
+![](attachment/0c8b372fc51858dd7f3165a9b2ea2aa1.png)
 
 <details>
 <summary>Flag</summary>
